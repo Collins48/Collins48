@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Collins
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning information technology 
-- 💞️ I’m looking to collaborate on  collaborate Coding nad cyber security 
+- 💞️ I’m looking to collaborate on  collaborate Coding  and cyber security 
 - 📫 How to reach me    collinkimutai648@gmail.com
 
 <!---
