@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @Collins
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning information technology 
-- 💞️ I’m looking to collaborate on  collaborate Coding  and cyber security 
-- 📫 How to reach me    collinkimutai648@gmail.com
+# 👋 Hey there, I'm Collins Kimutai
 
-<!---
-Collins48/Collins48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I'm a passionate software developer on a continuous journey to grow, build, and solve real-world problems through code.  
+
+## 📚 What I’m Learning
+
+- **Spring Boot + Kotlin** – Recently completed learning Kotlin and now integrating it with Spring Boot to develop backend systems with modern architecture.
+- **CI/CD & Deployment** – Built and deployed a Python app using GitHub Actions, Nginx, and reverse proxy workflows.
+- **Postman Testing & API Design** – Practicing RESTful API creation and testing with Postman for complete CRUD operations.
+- **Banking Systems (T24)** – Exploring how banking systems work, especially core banking solutions.
+
+## 💼 Skills
+
+- **Languages**: Java, Kotlin, Python, JavaScript, HTML, CSS
+- **Frameworks**: Spring Boot, Flask, Node.js (beginner), React (exploring)
+- **Tools & Tech**: Git, Postman, Nginx, GitHub Actions, Linux, IntelliJ, VS Code
+
+## 🌱 My Growth Mindset
+
+> *"Start where you are. Use what you have. Do what you can."*  
+I believe in learning by doing. Even when I hit setbacks (like academic or personal challenges), I’ve always bounced back stronger with more focus. I’m proud of my resilience and my vision to become a skilled backend and systems engineer.
+
+
+- ✅ Learn Kotlin and build Spring Boot projects
+- ⏳ Master T24 and banking integrations
+- ⏳ Build and deploy more real-world projects
+- ⏳ Collaborate more on open source and team projects
+
+
+
+---
+📬 Let’s Connect!
+
+
+Thanks for stopping by! 👨‍💻✨
