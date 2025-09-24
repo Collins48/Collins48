@@ -7,12 +7,12 @@
 - **Spring Boot + Kotlin** – Recently completed learning Kotlin and now integrating it with Spring Boot to develop backend systems with modern architecture.
 - **CI/CD & Deployment** – Built and deployed a Python app using GitHub Actions, Nginx, and reverse proxy workflows.
 - **Postman Testing & API Design** – Practicing RESTful API creation and testing with Postman for complete CRUD operations.
-- **Banking Systems (T24)** – Exploring how banking systems work, especially core banking solutions.
+
 
 ## 💼 Skills
 
-- **Languages**: Java, Kotlin, Python, JavaScript, HTML, CSS
-- **Frameworks**: Spring Boot, Flask, Node.js (beginner), React (exploring)
+- **Languages**: Java, Kotlin, JavaScript, HTML, CSS
+- **Frameworks**: Spring Boot, Node.js , React (exploring)
 - **Tools & Tech**: Git, Postman, Nginx, GitHub Actions, Linux, IntelliJ, VS Code
 
 ## 🌱 My Growth Mindset
@@ -22,7 +22,6 @@ I believe in learning by doing. Even when I hit setbacks (like academic or perso
 
 
 - ✅ Learn Kotlin and build Spring Boot projects
-- ⏳ Master T24 and banking integrations
 - ⏳ Build and deploy more real-world projects
 - ⏳ Collaborate more on open source and team projects
 
